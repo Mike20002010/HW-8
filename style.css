@@ -1,0 +1,61 @@
+.text-box h3:first-child {
+    color: pink;
+  }
+  #greycol{
+      color: grey;
+  }
+  .text-box div p {
+    color: red;
+  }
+p:nth-child(7) {
+    color: green;
+}  
+.yellow {
+    color: yellow;
+}
+
+.tr1 {
+    color: rgb(215, 16, 241);
+}  
+.tr1:hover {
+    color:blue
+}
+.tr1:active {
+    color: azure;
+}
+.tr2 {
+    color: aqua;
+}
+.tr2:hover {
+    color: chartreuse;
+}
+.tr2:active {
+    color: darkgreen;
+}
+.tr3 {
+    color: darkorange;
+}
+.tr3:hover {
+    color: gold;
+}
+.tr3:active {
+    color: goldenrod;
+}
+.tr4 {
+    color: firebrick;
+}
+.tr4:hover {
+    color: crimson;
+}
+.tr4:active {
+    color: maroon;
+}
+.tr5 {
+    color: aquamarine;
+}
+.tr5:hover {
+    color: blue;
+}
+.tr5:active {
+    color: indigo;
+}
